@@ -37,7 +37,6 @@ How to Run
 Outcome
 This project demonstrates data visualization, data cleaning, KPI
 calculations, and basic business analysis using Power BI.
-
 Authors
-- Mahalakshmi R
 - M Mohamed Haathim
+- Mahalakshmi R
